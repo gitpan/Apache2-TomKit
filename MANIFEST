@@ -67,3 +67,4 @@ t/lib/TomKitTest/CustomProvider.pm
 t/lib/TomKitTest/TestUtil.pm
 t/TEST.PL
 META.yml
+META.json                                Module JSON meta-data (added by MakeMaker)
